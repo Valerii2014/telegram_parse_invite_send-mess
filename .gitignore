@@ -1,0 +1,21 @@
+# Игнорировать файлы .ini
+*.ini
+
+# Игнорировать файлы .json
+*.json
+
+*.session
+
+*.session-journal
+
+*.exe
+
+*.spec
+
+__pysache__/
+
+build/
+
+dist/
+
+MODULES/__pysache__/
