@@ -1,4 +1,4 @@
-# telegram_application
+# telegram_parse_invite_send-mess
 
 This is an application for collecting user usernames, inviting them, and sending messages.
 
