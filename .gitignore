@@ -6,7 +6,7 @@
 
 *.session
 
-*.session-journal
+*..session-journal
 
 *.exe
 

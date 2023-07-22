@@ -1,0 +1,88 @@
+
+Profile Names:
+0. BASE
+1. other
+
+Your choise (get me variant number): 
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79397619518          [1/42]
+User 527/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 528/589  with name - Timur_Galaxy invited to the group
+
+Profile:  79397619539          [2/42]
+79397619539 will be unlocked through: - - - - - - - - - - - - - - - 23:06:07
+
+Profile:  79397619582          [3/42]
+79397619582 will be unlocked through: - - - - - - - - - - - - - - - 23:06:09
+
+Profile:  79510722706          [4/42]
+User 529/589 : No user has "plamenevd" as username
+User 530/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 531/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 532/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 533/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 534/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+
+Profile:  79965939400          [5/42]
+User 536/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 537/589  with name - ValeriiDanko invited to the group
+
+Profile:  79965939417          [6/42]
+User 538/589  with name - Ageyev_travel invited to the group
+
+Profile:  79965939452          [7/42]
+User 539/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 540/589  with name - Crazymennorekkt invited to the group
+
+Profile:  79995006931          [8/42]
+User 541/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 542/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 543/589  with name - Ragnarek8929 invited to the group
+
+Profile:  79995437047          [9/42]
+User 544/589 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 545/589  with name - Elenchiks invited to the group
+
+Profile:  79224139237          [10/42]

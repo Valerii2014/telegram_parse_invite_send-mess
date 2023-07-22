@@ -1,4 +1,5 @@
 import asyncio
+import re
 import random
 import telethon
 from .random_number import get_random_number
@@ -9,12 +10,12 @@ batch_size = 1
 
 # Отправка приглашений в группу
 async def invite_send_users(
-    client, usernames, start_index, group_id, profile, profile_count
+    client, usernames, start_index, group_id, session, session_count
 ):
     uninvited_users = []
     invited_users = []
     flood = False
-    sleeptime = get_random_number(profile_count)
+    sleeptime = get_random_number(session_count)
     counter = 1
 
     user_index = start_index + counter
@@ -26,7 +27,7 @@ async def invite_send_users(
             try:
                 user = await client.get_entity(username)
                 await client(InviteToChannelRequest(channel=group_id, users=[user]))
-                print(f"User {username} invited to the group")
+                print(f"User {username} invited to the group. . . . . .user {start_index + counter} of {len(usernames)}")
                 # Добавить пользователя в список приглашенных
                 invited_users.append(username)
             except telethon.errors.UserAlreadyParticipantError:
@@ -43,15 +44,13 @@ async def invite_send_users(
                     invited_users.append(username)
                     print(f"User {username} received an invitation in direct messages")
                 except telethon.errors.PeerFloodError as e:
-                    uninvited_users.append(username)
                     counter = counter - 1
                     print(f"Error inviting user {username}: {str(e)}")
-                    print(f"PeerFloodError. Session {profile} excluded")
+                    print(f"PeerFloodError. Session {session} excluded")
                     return uninvited_users, invited_users, True, counter
                 except Exception as e:
-                    uninvited_users.append(username)
                     print(
-                        f"Error sending invitation to {username} in direct messages: {str(e)}"
+                        f"User {start_index + counter}/{len(usernames)} : {str(e)}"
                     )
     return (
         uninvited_users,
@@ -63,12 +62,12 @@ async def invite_send_users(
 
 # Отправка приглашений в группу
 async def invite_users(
-    client, usernames, start_index, group_id, profile, profile_count
+    client, usernames, start_index, group_id, session, session_count
 ):
     uninvited_users = []
     invited_users = []
     flood = False
-    sleeptime = get_random_number(profile_count)
+    sleeptime = get_random_number(session_count)
     success_invite = False
     counter = 1
 
@@ -84,23 +83,40 @@ async def invite_users(
                 user = await client.get_entity(username)
                 await client(InviteToChannelRequest(channel=group_id, users=[user]))
                 print(
-                    f"User {username} invited to the group     user {start_index} of {len(usernames)}"
+                    f"User {start_index + counter}/{len(usernames)}  with name - {username} invited to the group"
                 )
                 invited_users.append(username)
                 success_invite = True
-            except telethon.errors.UserAlreadyParticipantError:
-                print(f"User {username} is already a member of the group")
-                counter += 1
             except telethon.errors.PeerFloodError as e:
+                print(f"User {start_index + counter}/{len(usernames)} : {str(e)}")
                 counter = counter - 1
-                print(f"Error inviting user {username}: {str(e)}")
-                print(f"PeerFloodError. Session {profile} excluded")
+                flood = True
+                print(f"XXXX_ Session {session} has been banned for flood, and excluded _XXXX")
+                return uninvited_users, invited_users, flood, counter
+            except telethon.errors.ChatWriteForbiddenError as e:
+                print(f"User {start_index + counter}/{len(usernames)} : {str(e)}")
                 return uninvited_users, invited_users, True, counter
             except Exception as e:
-                counter += 1
-                uninvited_users.append(username)
-                print(f"Error inviting user {username}: {str(e)}")
-                await asyncio.sleep(3 + random.random())
+                string = str(e)
+                if string.startswith("A wait of"):
+                    # Используем регулярное выражение для поиска числа в секундах
+                    match = re.search(r'A wait of (\d+) seconds', string)
+                    if match:
+                        seconds = int(match.group(1))
+                        print(f"User {start_index + counter}/{len(usernames)} : session {session} will be able to invite after: {seconds} seconds")
+                        counter = counter - 1
+                        flood = seconds
+                        return uninvited_users, invited_users, flood, counter
+                    else:
+                        print(f"User {start_index + counter}/{len(usernames)} : {string}")
+                        await asyncio.sleep(random.random())
+                        uninvited_users.append(username)
+                        counter += 1
+                else:
+                    print(f"User {start_index + counter}/{len(usernames)} : {string}")
+                    await asyncio.sleep(1 + random.random())
+                    uninvited_users.append(username)
+                    counter += 1
         else:
             break
 
@@ -112,11 +128,11 @@ async def invite_users(
     )  # Вернуть список неприглашенных пользователей и список приглашенных пользователей
 
 
-async def send_users(client, usernames, start_index, group_id, profile, profile_count):
+async def send_users(client, usernames, start_index, group_id, session, session_count):
     uninvited_users = []
     invited_users = []
     flood = False
-    sleeptime = get_random_number(profile_count)
+    sleeptime = get_random_number(session_count)
     counter = 1
 
     user_index = start_index + counter
@@ -132,17 +148,18 @@ async def send_users(client, usernames, start_index, group_id, profile, profile_
                     user, f"You might be interested in: {group_id}"
                 )
                 invited_users.append(username)
-                print(f"User {username} received an invitation in direct messages")
+                print(f"User {username} received an invitation in direct messages. . . . .user {start_index + counter} of {len(usernames)}")
             except telethon.errors.PeerFloodError as e:
-                uninvited_users.append(username)
+                print(f"Error inviting user {username}{start_index + counter}/{len(usernames)} : {str(e)}")
                 counter = counter - 1
-                print(f"Error inviting user {username}: {str(e)}")
-                print(f"PeerFloodError. Session {profile} excluded")
+                print(f"PeerFloodError. Session {session} excluded")
+                return uninvited_users, invited_users, True, counter
+            except telethon.errors.ChatWriteForbiddenError as e:
+                print(f"User {start_index + counter}/{len(usernames)} : {str(e)}")
                 return uninvited_users, invited_users, True, counter
             except Exception as e:
-                uninvited_users.append(username)
                 print(
-                    f"Error sending invitation to {username} in direct messages: {str(e)}"
+                    f"User {start_index + counter}/{len(usernames)} : {str(e)}"
     )
     return (
         uninvited_users,

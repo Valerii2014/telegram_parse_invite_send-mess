@@ -1,69 +1,52 @@
-import configparser
+import random
 import asyncio
-from telethon.sync import TelegramClient
-from telethon.tl.types import InputChannel
-from telethon.tl.types import ChannelParticipantsAdmins
+import configparser
 from telethon.tl.functions.channels import JoinChannelRequest
 from telethon.tl.functions.account import UpdateStatusRequest, UpdateProfileRequest
 from MODULES.load_save_data import load_data
+from MODULES.client_create import create_client
 
 
-async def join_channel(sess_names, change_name_boolean):
-    profile_count = len(sess_names)
+
+async def join_channel(sess_names, change_name_boolean, application_profile):
+
     config = configparser.ConfigParser()
     config.read("Configs/config.ini")
 
-    configWorker = configparser.ConfigParser()
-    configWorker.read("Configs/ownWorkerConfig.ini")
 
-    configProxy = configparser.ConfigParser()
-    configProxy.read("Configs/ukrProxy.ini")
+    session_index = 0
+    session_count = len(sess_names)
+    group_id = config["Link_for_profiles"][application_profile]
 
-    # Параметры прокси
-    proxy_host = configProxy["Proxy"]["proxy_host"]
-    proxy_port = int(configProxy["Proxy"]["proxy_port"])
-    proxy_username = configProxy["Proxy"]["proxy_username"]
-    proxy_password = configProxy["Proxy"]["proxy_password"]
-    group_id = config["Config"]["group_that_id"]
+    first_names_list = load_data("jsonDB/profileNames/firstNames.json")
+    second_names_list = load_data("jsonDB/profileNames/secondNames.json")
 
-    proxy = {
-        "proxy_type": "socks5",  # (mandatory) protocol to use (see above)
-        "addr": proxy_host,  # (mandatory) proxy IP address
-        "port": proxy_port,  # (mandatory) proxy port number
-        "username": proxy_username,  # (optional) username if the proxy requires auth
-        "password": proxy_password,  # (optional) password if the proxy requires auth
-        "rdns": True,  # (optional) whether to use remote or local resolve, default remote
-    }
-    profile_index = 0
-    for profile in sess_names:
-        session_data = load_data(f"Sessions/sessJson/{profile}.json")
 
-        api_id = session_data["app_id"]
-        api_hash = session_data["app_hash"]
-        device_model = session_data["sdk"]
-        device_version = session_data["app_version"]
+    def name_generator():
+        first_index = random.randint(1, (len(first_names_list) - 1))
+        second_index = random.randint(1, (len(second_names_list) - 1))
+        return first_names_list[first_index], second_names_list[second_index]
 
-        session_file = f"Sessions/sessJson/{profile}.session"
 
-        client = TelegramClient(
-            session_file,
-            api_id,
-            api_hash,
-            proxy=proxy,
-            device_model=device_model,
-            app_version=device_version,
-        )
+    for session in sess_names:        
+         
+        print(f'{session}')
+        session_index += 1
+
+        client = create_client(session)
+
         try:
             await client.connect()
             await client(UpdateStatusRequest(offline=False))
 
             if change_name_boolean == True:
-                new_name = input(f"New name for {profile}: ")
+                # new_name = input(f"New name for {session}: ")
+                first_name, second_name = name_generator()
                 try:
                     await client(
-                        UpdateProfileRequest(first_name=new_name, last_name="")
+                        UpdateProfileRequest(first_name=first_name, last_name=second_name)
                     )
-                    print(f"Name successfully changed to: {new_name}")
+                    print(f"Name successfully changed to: {first_name} {second_name}")
                 except asyncio.IncompleteReadError as e:
                     print("Error reading data: 0 bytes read out of expected 8 bytes.")
                 except Exception as e:
@@ -71,19 +54,15 @@ async def join_channel(sess_names, change_name_boolean):
 
             group_entity = await client.get_entity(group_id)
             result = await client(JoinChannelRequest(group_entity))
-            print(f"Successfully joined the group in session: {profile}")
-            # if isinstance(result, InputChannel) or isinstance(
-            #     result, ChannelParticipantsAdmins
-            # ):
-            #     print(f"Successfully joined the group in session: {profile}")
-            # else:
-            #     print(f"Admin confirmation required in session: {profile}")
-        except Exception as e:
-            print(f"Failed to join the group in session: {profile}")
-            print(f"Error: {str(e)}")
-        await client(UpdateStatusRequest(offline=True))
-        client.disconnect()
-        profile_index += 1
+            print(f"Successfully joined the group in session: {session}")
+            await client(UpdateStatusRequest(offline=True))
 
-        if profile_index == profile_count:
-            print("All profiles added to group")
+        except Exception as e:
+            print(f"Failed to join the group in session: {session}")
+            print(f"Error: {str(e)}")
+
+        client.disconnect()
+        print('\n')
+
+        if session_index == session_count:
+            print("\nAll sessions added to group")

@@ -1,0 +1,247 @@
+
+Profile Names:
+0. BASE
+1. darksoft
+
+Your choise (get me variant number): 
+ 
+PROFILE: darksoft
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Adding new session....
+
+Do you want channge name in session profiles ? (Y/N):79224139237
+Successfully joined the group in session: 79224139237
+
+
+79246046112
+Successfully joined the group in session: 79246046112
+
+
+79246116690
+Successfully joined the group in session: 79246116690
+
+
+79254982384
+Successfully joined the group in session: 79254982384
+
+
+79258300100
+Successfully joined the group in session: 79258300100
+
+
+79264485825
+Successfully joined the group in session: 79264485825
+
+
+79265439765
+Successfully joined the group in session: 79265439765
+
+
+79265608322
+Successfully joined the group in session: 79265608322
+
+
+79284796737
+Successfully joined the group in session: 79284796737
+
+
+79325498752
+Failed to join the group in session: 79325498752
+Error: The key is not registered in the system (caused by UpdateStatusRequest)
+
+
+79325600503
+Successfully joined the group in session: 79325600503
+
+
+79363085786
+Successfully joined the group in session: 79363085786
+
+
+79363089810
+Successfully joined the group in session: 79363089810
+
+
+79363152520
+Failed to join the group in session: 79363152520
+Error: The authorization has been invalidated, because of the user terminating all sessions (caused by UpdateStatusRequest)
+
+
+79363156739
+Failed to join the group in session: 79363156739
+Error: The authorization has been invalidated, because of the user terminating all sessions (caused by UpdateStatusRequest)
+
+
+79363169395
+Successfully joined the group in session: 79363169395
+
+
+79388110132
+Successfully joined the group in session: 79388110132
+
+
+79388110135
+Successfully joined the group in session: 79388110135
+
+
+79388110142
+Successfully joined the group in session: 79388110142
+
+
+79388110280
+Successfully joined the group in session: 79388110280
+
+
+79388110386
+Successfully joined the group in session: 79388110386
+
+
+79388110392
+Successfully joined the group in session: 79388110392
+
+
+79388110662
+Successfully joined the group in session: 79388110662
+
+
+79388110715
+Successfully joined the group in session: 79388110715
+
+
+79388110720
+Successfully joined the group in session: 79388110720
+
+
+79388110722
+Successfully joined the group in session: 79388110722
+
+
+79388110723
+Successfully joined the group in session: 79388110723
+
+
+79388110727
+Successfully joined the group in session: 79388110727
+
+
+79397612475
+Successfully joined the group in session: 79397612475
+
+
+79397618783
+Successfully joined the group in session: 79397618783
+
+
+79397619514
+Successfully joined the group in session: 79397619514
+
+
+79397619518
+Successfully joined the group in session: 79397619518
+
+
+79397619539
+Failed to join the group in session: 79397619539
+Error: The authorization has been invalidated, because of the user terminating all sessions (caused by UpdateStatusRequest)
+
+
+79397619582
+Failed to join the group in session: 79397619582
+Error: The authorization has been invalidated, because of the user terminating all sessions (caused by UpdateStatusRequest)
+
+
+79510722706
+Successfully joined the group in session: 79510722706
+
+
+79582301256
+Successfully joined the group in session: 79582301256
+
+
+79789533526
+Successfully joined the group in session: 79789533526
+
+
+79789830959
+Successfully joined the group in session: 79789830959
+
+
+79965939400
+Successfully joined the group in session: 79965939400
+
+
+79965939417
+Successfully joined the group in session: 79965939417
+
+
+79965939452
+Successfully joined the group in session: 79965939452
+
+
+79995006931
+Successfully joined the group in session: 79995006931
+
+
+79995437047
+Successfully joined the group in session: 79995437047
+
+
+
+All sessions added to group
+TOTAL NEW SESSIONS: 43
+
+ 
+PROFILE: darksoft
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+18. Q-2SOZLQnDQxY2I6
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+

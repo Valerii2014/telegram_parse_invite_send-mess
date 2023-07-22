@@ -42,7 +42,7 @@ async def parser_channel():
     if entity:
         # Обрезаем ссылку и сохраняем в файл INI
         if group_name not in names_array:
-            config.set("Group_names", str(len(group_names) + 1), group_name)
+            config.set("Group_names", str(len(group_names)), group_name)
             with open("Configs/config.ini", "w") as config_file:
                 config.write(config_file)
         else:

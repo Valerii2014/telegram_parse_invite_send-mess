@@ -1,0 +1,155 @@
+
+Profile Names:
+0. BASE
+1. other
+
+Your choise (get me variant number): 
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79363152520          [1/42]
+79363152520 will be unlocked through: - - - - - - - - - - - - - - - 23:57:30
+
+Profile:  79363156739          [2/42]
+79363156739 will be unlocked through: - - - - - - - - - - - - - - - 23:57:33
+
+Profile:  79363169395          [3/42]
+User 22/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 23/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 24/75 : session 79363169395 will be able to invite after: 3447 seconds
+
+Profile:  79363169395          [3/42]
+79363169395 will be unlocked through: - - - - - - - - - - - - - - - 00:57:26
+
+Profile:  79388110132          [4/42]
+User 22/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 23/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 24/75 : session 79388110132 will be able to invite after: 3446 seconds
+
+Profile:  79388110132          [4/42]
+79388110132 will be unlocked through: - - - - - - - - - - - - - - - 00:57:25
+
+Profile:  79388110135          [5/42]
+User 22/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 23/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 24/75 : session 79388110135 will be able to invite after: 3438 seconds
+
+Profile:  79388110135          [5/42]
+79388110135 will be unlocked through: - - - - - - - - - - - - - - - 00:57:17
+
+Profile:  79388110142          [6/42]
+User 22/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 23/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 24/75 : session 79388110142 will be able to invite after: 3446 seconds
+
+Profile:  79388110142          [6/42]
+79388110142 will be unlocked through: - - - - - - - - - - - - - - - 00:57:25
+
+Profile:  79388110280          [7/42]
+User 22/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 23/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 24/75  with name - AlexandrTheBig invited to the group
+
+Profile:  79388110386          [8/42]
+User 25/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 26/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 27/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 28/75 : session 79388110386 will be able to invite after: 3440 seconds
+
+Profile:  79388110386          [8/42]
+79388110386 will be unlocked through: - - - - - - - - - - - - - - - 00:57:19
+
+Profile:  79388110392          [9/42]
+User 25/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 26/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 27/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 28/75 : session 79388110392 will be able to invite after: 3437 seconds
+
+Profile:  79388110392          [9/42]
+79388110392 will be unlocked through: - - - - - - - - - - - - - - - 00:57:16
+
+Profile:  79388110662          [10/42]
+User 25/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 26/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 27/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 28/75 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79388110662 has been banned for flood, and excluded _XXXX
+
+Profile:  79388110662          [10/42]
+This profile excluded for these iterations
+
+Profile:  79388110715          [11/42]
+User 25/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 26/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 27/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 28/75  with name - Snow_Ksu invited to the group
+
+Profile:  79388110720          [12/42]
+User 29/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 30/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 31/75  with name - onepath_IA invited to the group
+
+Profile:  79388110722          [13/42]
+User 32/75  with name - Shoregroove invited to the group
+
+Profile:  79388110723          [14/42]
+User 33/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 34/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 35/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 36/75  with name - rib1t invited to the group
+
+Profile:  79388110727          [15/42]
+User 37/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 38/75  with name - nsjek invited to the group
+
+Profile:  79397612475          [16/42]
+User 39/75 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79397612475 has been banned for flood, and excluded _XXXX
+
+Profile:  79397612475          [16/42]
+This profile excluded for these iterations
+
+Profile:  79397618783          [17/42]
+79397618783 will be unlocked through: - - - - - - - - - - - - - - - 16:46:30
+
+Profile:  79397619514          [18/42]

@@ -14,7 +14,10 @@ def convert_format(usernames):
 # Загрузка информации о пользователях из JSON файла
 def load_data(file_name):
     with open(file_name, "r") as file:
-        usernames = json.load(file)
+        try:
+            usernames = json.load(file)
+        except Exception as e:
+            print(str(e))
     return usernames
 
 

@@ -1,0 +1,245 @@
+
+Profile Names:
+0. BASE
+1. other
+
+Your choise (get me variant number): 
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79789533526          [1/44]
+79789533526 is unlocked !
+User 415/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 416/1249  with name - ExTrEmE_N1 invited to the group
+
+Profile:  79789830959          [2/44]
+79789830959 is unlocked !
+User 417/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 418/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 419/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 420/1249  with name - prosto_fafa invited to the group
+
+Profile:  79325498742          [3/44]
+79325498742 is unlocked !
+User 421/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 422/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 423/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 424/1249  with name - aleks82odessa invited to the group
+
+Profile:  79325498752          [4/44]
+User 425/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 426/1249  with name - Vladislav_Bondar invited to the group
+
+Profile:  79363152520          [5/44]
+User 427/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 428/1249 : No user has "boosttrapmax" as username
+User 429/1249  with name - pojiloykaras invited to the group
+
+Profile:  79363156739          [6/44]
+User 430/1249  with name - Artur150488 invited to the group
+
+Profile:  79363169395          [7/44]
+User 431/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 432/1249  with name - drozdyaga invited to the group
+
+Profile:  79388110132          [8/44]
+User 433/1249  with name - ULMAR1NE invited to the group
+
+Profile:  79388110135          [9/44]
+User 434/1249  with name - Master_proshlogo invited to the group
+
+Profile:  79388110142          [10/44]
+User 435/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 436/1249  with name - d_n1ce invited to the group
+
+Profile:  79388110280          [11/44]
+User 437/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 438/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 439/1249 : No user has "sanek_887" as username
+User 440/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 441/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 442/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+
+Profile:  79388110386          [12/44]
+User 444/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 445/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 446/1249  with name - MihailGreen invited to the group
+
+Profile:  79388110392          [13/44]
+User 447/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 448/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 449/1249  with name - Obereg1986sa invited to the group
+
+Profile:  79388110662          [14/44]
+User 450/1249  with name - MonacoATH invited to the group
+
+Profile:  79388110715          [15/44]
+User 451/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 452/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 453/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 454/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 455/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 456/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+
+Profile:  79388110720          [16/44]
+User 458/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 459/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 460/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 461/1249  with name - CrazyRussianDev invited to the group
+
+Profile:  79388110722          [17/44]
+User 462/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 463/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 464/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 465/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 466/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 467/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+
+Profile:  79388110723          [18/44]
+User 469/1249  with name - refreshok invited to the group
+
+Profile:  79388110727          [19/44]
+User 470/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 471/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 472/1249  with name - eisman87 invited to the group
+
+Profile:  79397612475          [20/44]
+User 473/1249  with name - Vlspbmsk invited to the group
+
+Profile:  79397618783          [21/44]
+79397618783 will be unlocked through: - - - - - - - - - - - - - - - 17:38:15
+
+Profile:  79397619514          [22/44]
+User 474/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 475/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 476/1249  with name - Snaggletooth89 invited to the group
+
+Profile:  79397619518          [23/44]
+User 477/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 478/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 479/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 480/1249 : No user has "mihaylov_egor" as username
+User 481/1249  with name - afanasyiw invited to the group
+
+Profile:  79397619539          [24/44]
+User 482/1249  with name - Fexhehci invited to the group
+
+Profile:  79397619582          [25/44]
+User 483/1249  with name - finik_nsk invited to the group
+
+Profile:  79510722706          [26/44]
+User 484/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 485/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 486/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 487/1249  with name - imhoteb57 invited to the group
+
+Profile:  79965939400          [27/44]
+User 488/1249  with name - sericumvia invited to the group
+
+Profile:  79965939417          [28/44]
+User 489/1249 : The provided user is not a mutual contact (caused by InviteToChannelRequest)
+User 490/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 491/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 492/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 493/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 494/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+
+Profile:  79965939452          [29/44]
+User 496/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 497/1249  with name - k95721 invited to the group
+
+Profile:  79995006931          [30/44]
+79995006931 will be unlocked through: - - - - - - - - - - - - - - - 03:05:52
+
+Profile:  79995437047          [31/44]
+User 498/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 499/1249  with name - PetroffV invited to the group
+
+Profile:  79224139237          [32/44]
+79224139237 will be unlocked through: - - - - - - - - - - - - - - - 03:05:46
+
+Profile:  79246046112          [33/44]
+User 500/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 501/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 502/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 503/1249  with name - ya_est_vlad invited to the group
+
+Profile:  79246116690          [34/44]
+User 504/1249  with name - Team1n invited to the group
+
+Profile:  79254982384          [35/44]
+79254982384 will be unlocked through: - - - - - - - - - - - - - - - 21:09:22
+
+Profile:  79258300100          [36/44]
+79258300100 will be unlocked through: - - - - - - - - - - - - - - - 21:09:29
+
+Profile:  79264485825          [37/44]
+79264485825 will be unlocked through: - - - - - - - - - - - - - - - 21:09:36
+
+Profile:  79265439765          [38/44]
+79265439765 will be unlocked through: - - - - - - - - - - - - - - - 03:05:20
+
+Profile:  79265608322          [39/44]
+79265608322 will be unlocked through: - - - - - - - - - - - - - - - 21:09:44
+
+Profile:  79325600503          [40/44]
+User 505/1249  with name - pavelvit8 invited to the group
+
+Profile:  79363085786          [41/44]
+User 506/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 507/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 508/1249  with name - mityarassel invited to the group
+
+Profile:  79363089810          [42/44]
+User 509/1249 : No user has "ghostweb3" as username
+User 510/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 511/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 512/1249  with name - qasswed invited to the group
+
+Profile:  79582301256          [43/44]
+79582301256 will be unlocked through: - - - - - - - - - - - - - - - 04:15:20
+
+Profile:  79284796737          [44/44]
+79284796737 will be unlocked through: - - - - - - - - - - - - - - - 07:25:45
+
+Profile:  79789533526          [1/44]
+User 513/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)

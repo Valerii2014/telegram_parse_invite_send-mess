@@ -1,0 +1,212 @@
+
+Profile Names:
+0. BASE
+1. darksoft
+
+Your choise (get me variant number): 
+ 
+PROFILE: darksoft
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+18. Q-2SOZLQnDQxY2I6
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79224139237          [1/38]
+User 1/492 : Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by InviteToChannelRequest)
+User 2/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 3/492  with name - mrdungeon1 invited to the group
+
+Profile:  79246046112          [2/38]
+User 4/492  with name - CBAT_CBATEPOB invited to the group
+
+Profile:  79246116690          [3/38]
+User 5/492  with name - L1vaxxX invited to the group
+
+Profile:  79254982384          [4/38]
+User 6/492  with name - merzst1 invited to the group
+
+Profile:  79258300100          [5/38]
+User 7/492  with name - lovkach404 invited to the group
+
+Profile:  79264485825          [6/38]
+User 8/492  with name - Mirconnect7 invited to the group
+
+Profile:  79265439765          [7/38]
+79265439765 will be unlocked through: - - - - - - - - - - - - - - - 20:17:51
+
+Profile:  79265608322          [8/38]
+User 9/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 10/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 11/492  with name - Johnnyopp invited to the group
+
+Profile:  79284796737          [9/38]
+User 12/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 13/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 14/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 15/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 16/492  with name - yzhas2015 invited to the group
+
+Profile:  79363089810          [10/38]
+User 17/492  with name - PGIns invited to the group
+
+Profile:  79363169395          [11/38]
+User 18/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 19/492  with name - Fnmzs invited to the group
+
+Profile:  79388110132          [12/38]
+User 20/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 21/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 22/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 23/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 24/492  with name - wagagawagawa invited to the group
+
+Profile:  79388110135          [13/38]
+User 25/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 26/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 27/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 28/492  with name - hhhebx invited to the group
+
+Profile:  79388110142          [14/38]
+User 29/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 30/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 31/492  with name - iconeen invited to the group
+
+Profile:  79388110280          [15/38]
+User 32/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 33/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 34/492  with name - Mr_Moxx invited to the group
+
+Profile:  79388110386          [16/38]
+User 35/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 36/492  with name - Inkognito_droid invited to the group
+
+Profile:  79388110392          [17/38]
+User 37/492  with name - nelson_help invited to the group
+
+Profile:  79388110662          [18/38]
+79388110662 will be unlocked through: - - - - - - - - - - - - - - - 23:13:15
+
+Profile:  79388110715          [19/38]
+User 38/492  with name - id2289 invited to the group
+
+Profile:  79388110720          [20/38]
+User 39/492  with name - ragelust invited to the group
+
+Profile:  79388110722          [21/38]
+User 40/492  with name - zxcpidarokk invited to the group
+
+Profile:  79388110723          [22/38]
+User 41/492  with name - gar095 invited to the group
+
+Profile:  79388110727          [23/38]
+User 42/492  with name - chessteamts invited to the group
+
+Profile:  79397612475          [24/38]
+79397612475 will be unlocked through: - - - - - - - - - - - - - - - 23:14:00
+
+Profile:  79397618783          [25/38]
+79397618783 will be unlocked through: - - - - - - - - - - - - - - - 23:14:02
+
+Profile:  79397619514          [26/38]
+79397619514 will be unlocked through: - - - - - - - - - - - - - - - 23:14:05
+
+Profile:  79397619518          [27/38]
+User 43/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 44/492  with name - youaredebest invited to the group
+
+Profile:  79397619539          [28/38]
+79397619539 will be unlocked through: - - - - - - - - - - - - - - - 19:14:01
+
+Profile:  79397619582          [29/38]
+79397619582 will be unlocked through: - - - - - - - - - - - - - - - 19:14:03
+
+Profile:  79510722706          [30/38]
+User 45/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 46/492  with name - deidosina invited to the group
+
+Profile:  79582301256          [31/38]
+User 47/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 48/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 49/492  with name - aowowoowow invited to the group
+
+Profile:  79789533526          [32/38]
+User 50/492  with name - allax_uwu invited to the group
+
+Profile:  79789830959          [33/38]
+User 51/492  with name - COCOSIKI_SELL invited to the group
+
+Profile:  79965939400          [34/38]
+User 52/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 53/492  with name - sotyksx invited to the group
+
+Profile:  79965939417          [35/38]
+User 54/492  with name - hoodrichfaneto invited to the group
+
+Profile:  79965939452          [36/38]
+User 55/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 56/492  with name - SMETANALOLZ invited to the group
+
+Profile:  79995006931          [37/38]
+User 57/492  with name - wen_tt invited to the group
+
+Profile:  79995437047          [38/38]
+User 58/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 59/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 60/492 : One of the users you tried to add is already in too many channels/supergroups (caused by InviteToChannelRequest)
+User 61/492  with name - econeft invited to the group
+All profiles have been processed. Starting from the first profile.
+
+All sessionss sent: 1 invite 
+
+ 
+PROFILE: darksoft
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 

@@ -1,0 +1,161 @@
+
+Profile Names:
+0. BASE
+1. darksoft
+
+Your choise (get me variant number): 
+ 
+PROFILE: darksoft
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+18. Q-2SOZLQnDQxY2I6
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79224139237          [1/37]
+79224139237 is unlocked !
+User 73/492  with name - Ibios263 invited to the group
+
+Profile:  79246046112          [2/37]
+User 74/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 75/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 76/492 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79246046112 has been banned for flood, and excluded _XXXX
+
+Profile:  79246046112          [2/37]
+This profile excluded for these iterations
+
+Profile:  79246116690          [3/37]
+79246116690 will be unlocked through: - - - - - - - - - - - - - - - 13:01:16
+
+Profile:  79254982384          [4/37]
+User 74/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 75/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 76/492  with name - alfonsik1 invited to the group
+
+Profile:  79258300100          [5/37]
+User 77/492  with name - jestokvsekse invited to the group
+
+Profile:  79264485825          [6/37]
+User 78/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 79/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 80/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 81/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 82/492  with name - hah_really invited to the group
+
+Profile:  79265439765          [7/37]
+79265439765 will be unlocked through: - - - - - - - - - - - - - - - 11:59:47
+
+Profile:  79265608322          [8/37]
+User 83/492  with name - PSYCHOZ6 invited to the group
+
+Profile:  79284796737          [9/37]
+User 84/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 85/492  with name - dauletdss invited to the group
+
+Profile:  79363089810          [10/37]
+User 86/492  with name - Scarecrow_Nelli invited to the group
+
+Profile:  79363169395          [11/37]
+User 87/492  with name - graycannabis invited to the group
+
+Profile:  79388110132          [12/37]
+User 88/492  with name - bides42 invited to the group
+
+Profile:  79388110135          [13/37]
+User 89/492 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79388110135 has been banned for flood, and excluded _XXXX
+
+Profile:  79388110135          [13/37]
+This profile excluded for these iterations
+
+Profile:  79388110142          [14/37]
+User 89/492  with name - Azitor invited to the group
+
+Profile:  79388110280          [15/37]
+User 90/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 91/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 92/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 93/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 94/492  with name - abriicos invited to the group
+
+Profile:  79388110386          [16/37]
+User 95/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 96/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 97/492  with name - dobro_i_zlo12 invited to the group
+
+Profile:  79388110392          [17/37]
+User 98/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 99/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 100/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 101/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 102/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 103/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+
+Profile:  79388110662          [18/37]
+79388110662 will be unlocked through: - - - - - - - - - - - - - - - 13:00:50
+
+Profile:  79388110715          [19/37]
+79388110715 will be unlocked through: - - - - - - - - - - - - - - - 13:00:56
+
+Profile:  79388110720          [20/37]
+User 105/492  with name - CBAT_MYCOPOB invited to the group
+
+Profile:  79388110722          [21/37]
+User 106/492 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79388110722 has been banned for flood, and excluded _XXXX
+
+Profile:  79388110722          [21/37]
+This profile excluded for these iterations
+
+Profile:  79388110723          [22/37]
+User 106/492  with name - cookiemanagerr invited to the group
+
+Profile:  79388110727          [23/37]
+User 107/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 108/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 109/492  with name - selfdxstruction invited to the group
+
+Profile:  79397612475          [24/37]
+79397612475 will be unlocked through: - - - - - - - - - - - - - - - 13:01:02
+
+Profile:  79397618783          [25/37]
+79397618783 will be unlocked through: - - - - - - - - - - - - - - - 13:01:07
+
+Profile:  79397619514          [26/37]

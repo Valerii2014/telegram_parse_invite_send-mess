@@ -1,0 +1,96 @@
+
+Profile Names:
+0. BASE
+1. darksoft
+
+Your choise (get me variant number): 
+ 
+PROFILE: darksoft
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+18. Q-2SOZLQnDQxY2I6
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79246046112          [1/37]
+79246046112 will be unlocked through: - - - - - - - - - - - - - - - 23:37:41
+
+Profile:  79224139237          [2/37]
+79224139237 is unlocked !
+User 191/492  with name - SONMYNECK invited to the group
+
+Profile:  79246116690          [3/37]
+79246116690 will be unlocked through: - - - - - - - - - - - - - - - 12:38:50
+
+Profile:  79254982384          [4/37]
+79254982384 is unlocked !
+User 192/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 193/492  with name - eugene_sel invited to the group
+
+Profile:  79258300100          [5/37]
+79258300100 will be unlocked through: - - - - - - - - - - - - - - - 09:26:40
+
+Profile:  79264485825          [6/37]
+User 194/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 195/492  with name - PrimuNomeraP0deliHalva invited to the group
+
+Profile:  79265439765          [7/37]
+79265439765 will be unlocked through: - - - - - - - - - - - - - - - 11:37:38
+
+Profile:  79265608322          [8/37]
+User 196/492  with name - Erustero invited to the group
+
+Profile:  79284796737          [9/37]
+User 197/492  with name - luchik65 invited to the group
+
+Profile:  79363089810          [10/37]
+User 198/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 199/492 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79363089810 has been banned for flood, and excluded _XXXX
+
+Profile:  79363089810          [10/37]
+This profile excluded for these iterations
+
+Profile:  79363169395          [11/37]
+User 198/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 199/492  with name - yadaynpuk invited to the group
+May be session is dead
+
+Profile:  79388110132          [12/37]
+User 200/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)

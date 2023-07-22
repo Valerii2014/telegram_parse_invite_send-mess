@@ -1,0 +1,208 @@
+
+Profile Names:
+0. BASE
+1. other
+
+Your choise (get me variant number): 
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79789533526          [1/44]
+79789533526 is unlocked !
+User (178 of 369) with name:MrrAlexey invited to the group
+
+Profile:  79789830959          [2/44]
+User (179 of 369) with name:ITCTO invited to the group
+
+Profile:  79325498742          [3/44]
+79325498742 is unlocked !
+User (180 of 369): The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User (181 of 369) with name:Darya_Fisher invited to the group
+
+Profile:  79325498752          [4/44]
+79325498752 is unlocked !
+User (182 of 369): Cannot cast InputPeerChannel to any kind of InputUser.
+User (183 of 369) with name:kumchenko invited to the group
+
+Profile:  79363152520          [5/44]
+User (184 of 369) with name:irina_vatanabe invited to the group
+
+Profile:  79363156739          [6/44]
+79363156739 is unlocked !
+User (185 of 369) with name:RazifGR invited to the group
+
+Profile:  79363169395          [7/44]
+79363169395 is unlocked !
+User (186 of 369) with name:Pavluha_Alexeev invited to the group
+
+Profile:  79388110132          [8/44]
+79388110132 is unlocked !
+User (187 of 369) with name:igor_igor_igor invited to the group
+
+Profile:  79388110135          [9/44]
+User (188 of 369) with name:GeorgeMash invited to the group
+
+Profile:  79388110142          [10/44]
+79388110142 is unlocked !
+User (189 of 369) with name:dimonap invited to the group
+
+Profile:  79388110280          [11/44]
+User (190 of 369): The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User (191 of 369) with name:stasbodrov invited to the group
+
+Profile:  79388110386          [12/44]
+User (192 of 369) with name:KataemKTM invited to the group
+
+Profile:  79388110392          [13/44]
+79388110392 is unlocked !
+User (193 of 369) with name:KROTIKotkryvatel invited to the group
+
+Profile:  79388110662          [14/44]
+79388110662 is unlocked !
+User (194 of 369): The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User (195 of 369) with name:MaxMinakov invited to the group
+
+Profile:  79388110715          [15/44]
+User (196 of 369) with name:malt_ber invited to the group
+
+Profile:  79388110720          [16/44]
+User (197 of 369) with name:Mike4k invited to the group
+
+Profile:  79388110722          [17/44]
+User (198 of 369) with name:VadimkaNikodimka invited to the group
+
+Profile:  79388110723          [18/44]
+User (199 of 369) with name:KobberMobber invited to the group
+
+Profile:  79388110727          [19/44]
+79388110727 is unlocked !
+User (200 of 369) with name:Sendai68 invited to the group
+
+Profile:  79397612475          [20/44]
+User (201 of 369) with name:Oktregion invited to the group
+
+Profile:  79397618783          [21/44]
+79397618783 will be unlocked through: - - - - - - - - - - - - - - - 10:11:43
+
+Profile:  79397619514          [22/44]
+79397619514 is unlocked !
+User (202 of 369): Cannot cast InputPeerChannel to any kind of InputUser.
+User (203 of 369): The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User (204 of 369) with name:JohnJNS invited to the group
+
+Profile:  79397619518          [23/44]
+79397619518 is unlocked !
+User (205 of 369) with name:AlexeyG71 invited to the group
+
+Profile:  79397619539          [24/44]
+79397619539 is unlocked !
+User (206 of 369) with name:AlexxxVolkkk invited to the group
+
+Profile:  79397619582          [25/44]
+User (207 of 369) with name:ru108 invited to the group
+
+Profile:  79510722706          [26/44]
+User (208 of 369) with name:Staffa777 invited to the group
+
+Profile:  79965939400          [27/44]
+User (209 of 369): The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User (210 of 369): Cannot cast InputPeerChannel to any kind of InputUser.
+User (211 of 369): The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User (212 of 369) with name:Turkiye_Aleks invited to the group
+
+Profile:  79965939417          [28/44]
+User (213 of 369) with name:daytradeservice invited to the group
+
+Profile:  79965939452          [29/44]
+User (214 of 369) with name:Madjid7 invited to the group
+
+Profile:  79995006931          [30/44]
+79995006931 will be unlocked through: - - - - - - - - - - - - - - - 19:39:28
+
+Profile:  79995437047          [31/44]
+User (215 of 369) with name:egorovvb invited to the group
+
+Profile:  79224139237          [32/44]
+79224139237 will be unlocked through: - - - - - - - - - - - - - - - 19:39:19
+
+Profile:  79246046112          [33/44]
+User (216 of 369) with name:AlekseyTSU invited to the group
+
+Profile:  79246116690          [34/44]
+User (217 of 369) with name:Alexost2710 invited to the group
+
+Profile:  79254982384          [35/44]
+79254982384 will be unlocked through: - - - - - - - - - - - - - - - 13:43:07
+
+Profile:  79258300100          [36/44]
+79258300100 will be unlocked through: - - - - - - - - - - - - - - - 13:43:14
+
+Profile:  79264485825          [37/44]
+79264485825 will be unlocked through: - - - - - - - - - - - - - - - 13:43:21
+
+Profile:  79265439765          [38/44]
+79265439765 will be unlocked through: - - - - - - - - - - - - - - - 19:39:05
+
+Profile:  79265608322          [39/44]
+79265608322 will be unlocked through: - - - - - - - - - - - - - - - 13:43:29
+
+Profile:  79284796737          [40/44]
+User (218 of 369): You can't write in this chat (caused by InviteToChannelRequest)
+
+Profile:  79284796737          [40/44]
+
+Profile:  79325600503          [41/44]
+User (218 of 369) with name:Kostas_R invited to the group
+
+Profile:  79363085786          [42/44]
+User (219 of 369): The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User (220 of 369): The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User (221 of 369) with name:masssimillian invited to the group
+
+Profile:  79363089810          [43/44]
+User (222 of 369): The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User (223 of 369) with name:Kortex123 invited to the group
+
+Profile:  79582301256          [44/44]
+79582301256 will be unlocked through: - - - - - - - - - - - - - - - 20:49:03
+
+Profile:  79789533526          [1/44]

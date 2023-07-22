@@ -1,0 +1,150 @@
+
+Profile Names:
+0. BASE
+1. darksoft
+
+Your choise (get me variant number): 
+ 
+PROFILE: darksoft
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+18. Q-2SOZLQnDQxY2I6
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79246046112          [1/37]
+79246046112 will be unlocked through: - - - - - - - - - - - - - - - 19:49:57
+
+Profile:  79224139237          [2/37]
+User 111/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 112/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 113/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 114/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 115/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 116/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+
+Profile:  79246116690          [3/37]
+79246116690 will be unlocked through: - - - - - - - - - - - - - - - 08:50:54
+
+Profile:  79254982384          [4/37]
+User 118/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 119/492  with name - eternalhurricane invited to the group
+
+Profile:  79258300100          [5/37]
+User 120/492  with name - k0tnosok invited to the group
+
+Profile:  79264485825          [6/37]
+User 121/492  with name - D123456oo invited to the group
+
+Profile:  79265439765          [7/37]
+79265439765 will be unlocked through: - - - - - - - - - - - - - - - 07:49:38
+
+Profile:  79265608322          [8/37]
+User 122/492  with name - deadbetty invited to the group
+
+Profile:  79284796737          [9/37]
+User 123/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 124/492  with name - Felix_Escrow invited to the group
+
+Profile:  79363089810          [10/37]
+User 125/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 126/492  with name - umenah invited to the group
+
+Profile:  79363169395          [11/37]
+User 127/492  with name - myakvinky invited to the group
+
+Profile:  79388110132          [12/37]
+User 128/492  with name - Danbesy invited to the group
+
+Profile:  79388110135          [13/37]
+79388110135 will be unlocked through: - - - - - - - - - - - - - - - 19:49:50
+
+Profile:  79388110142          [14/37]
+User 129/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 130/492  with name - azzzimovvv invited to the group
+
+Profile:  79388110280          [15/37]
+User 131/492  with name - EgorLyyurov invited to the group
+
+Profile:  79388110386          [16/37]
+User 132/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 133/492  with name - Chinchillka_service invited to the group
+
+Profile:  79388110392          [17/37]
+User 134/492  with name - Dimka_bratvh invited to the group
+
+Profile:  79388110662          [18/37]
+79388110662 will be unlocked through: - - - - - - - - - - - - - - - 08:51:04
+
+Profile:  79388110715          [19/37]
+79388110715 will be unlocked through: - - - - - - - - - - - - - - - 08:51:10
+
+Profile:  79388110720          [20/37]
+User 135/492  with name - Djonik321 invited to the group
+
+Profile:  79388110722          [21/37]
+79388110722 will be unlocked through: - - - - - - - - - - - - - - - 19:50:15
+
+Profile:  79388110723          [22/37]
+User 136/492 : One of the users you tried to add is already in too many channels/supergroups (caused by InviteToChannelRequest)
+User 137/492  with name - Fsa123123 invited to the group
+
+Profile:  79388110727          [23/37]
+User 138/492  with name - logsohyeah invited to the group
+
+Profile:  79397612475          [24/37]
+79397612475 will be unlocked through: - - - - - - - - - - - - - - - 08:51:23
+
+Profile:  79397618783          [25/37]
+79397618783 will be unlocked through: - - - - - - - - - - - - - - - 08:51:28
+
+Profile:  79397619514          [26/37]
+User 139/492  with name - sh1nelikenovva invited to the group
+
+Profile:  79397619518          [27/37]
+User 140/492  with name - mist_professor invited to the group
+
+Profile:  79397619539          [28/37]
+79397619539 will be unlocked through: - - - - - - - - - - - - - - - 08:51:33
+
+Profile:  79510722706          [29/37]
+User 141/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 142/492  with name - Elics21 invited to the group
+
+Profile:  79582301256          [30/37]

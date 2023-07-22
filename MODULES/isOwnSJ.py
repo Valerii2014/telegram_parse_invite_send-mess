@@ -5,6 +5,7 @@ from telethon.sync import TelegramClient
 from telethon.tl.functions.account import UpdateStatusRequest
 import configparser
 from MODULES.invite_user import invite_users, send_users, invite_send_users
+from MODULES.client_create import create_client
 from MODULES.load_save_data import (
     load_data,
     load_list_data,
@@ -14,70 +15,49 @@ from MODULES.load_save_data import (
     load_checkpoint,
 )
 
-
-async def inviteSJ(list_name, doing):
+async def inviteSJ(list_name, doing, application_profile):
+   
+    config = configparser.ConfigParser()
     configWorker = configparser.ConfigParser()
+
+    config.read("Configs/config.ini")
     configWorker.read("Configs/sessionConfig.ini")
 
-    configProxy = configparser.ConfigParser()
-    configProxy.read("Configs/ukrProxy.ini")
-
-    config = configparser.ConfigParser()
-    config.read("Configs/config.ini")
-
-    # Параметры прокси
-    proxy_host = configProxy["Proxy"]["proxy_host"]
-    proxy_port = int(configProxy["Proxy"]["proxy_port"])
-    proxy_username = configProxy["Proxy"]["proxy_username"]
-    proxy_password = configProxy["Proxy"]["proxy_password"]
-
-    json_name = list_name
-
+    flood_rest = int(config["Config"]["flood_rest"])
+    group_id = config["Link_for_profiles"][application_profile]
     iteration_for_profile = int(config["Config"]["iteration_for_profile"])
-    timestamp = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-
-    excluded_sessions = []
-    profiles_iteration = 0
 
     profile_count = len(configWorker.sections())
     if profile_count == 0:
         print(
             'You has no sessions file, start "Add new sess" or add session file to folder sessJson'
         )
-
-    group_id = config["Config"]["group_that_id"]
-    flood_rest = int(config["Config"]["flood_rest"])
-
-    usernames = load_list_data(f"jsonDB/sparsedChannelsUsers/{json_name}.json")
-    uninvited_users = load_data("jsonDB/sparsedChannelsUsers/uninvited_users.json")
-    invited_users = load_invited_users("jsonDB/invited_users.json")
+        
     flood_list = load_invited_users("jsonDB/flood_list.json")
-
-    proxy = {
-        "proxy_type": "socks5",  # (mandatory) protocol to use (see above)
-        "addr": proxy_host,  # (mandatory) proxy IP address
-        "port": proxy_port,  # (mandatory) proxy port number
-        "username": proxy_username,  # (optional) username if the proxy requires auth
-        "password": proxy_password,  # (optional) password if the proxy requires auth
-        "rdns": True,  # (optional) whether to use remote or local resolve, default remote
-    }
+    usernames = load_list_data(f"jsonDB/sparsedChannelsUsers/{list_name}.json")
+    uninvited_users = load_data(f"jsonDB/profiles_data/{application_profile}/uninvited_users_{application_profile}.json")
+    invited_users = load_invited_users(f"jsonDB/profiles_data/{application_profile}/invited_users_{application_profile}.json")
 
     profile_index = 0
+    profiles_iteration = 0
+    excluded_sessions = []
+
     while profile_index < profile_count:
         profile = configWorker.sections()[profile_index]
 
         if profiles_iteration >= iteration_for_profile:
-            print(f"All sessionss sent: {iteration_for_profile} invite ")
+            print(f"\nAll sessionss sent: {iteration_for_profile} invite ")
             return
 
         if len(excluded_sessions) >= profile_count:
-            print("All sessions have a spam block =(")
+            print("\nAll sessions have a spam block =(")
             return
 
-        print(f"Profile:  {profile}          [{profile_index + 1}/{profile_count}]")
+        print(f"\nProfile:  {profile}          [{profile_index + 1}/{profile_count}]")
 
         if profile in excluded_sessions:
             profile_index = (profile_index + 1) % profile_count
+            print("This profile excluded for these iterations")
             continue
 
         found_flood_session = False
@@ -90,10 +70,16 @@ async def inviteSJ(list_name, doing):
                 time_diff = current_timestamp - flood_timestamp
                 if time_diff < datetime.timedelta(hours=flood_rest):
                     waitTime = datetime.timedelta(hours=flood_rest) - time_diff
-                    print(
-                        f"{profile} will be unlocked through: - - - - - - - - - - - - - - - {waitTime}"
-                    )
+                    
+                    hours = waitTime.seconds // 3600
+                    minutes = (waitTime.seconds // 60) % 60
+                    seconds = waitTime.seconds % 60
+                    waitTime_str = f"{hours:02}:{minutes:02}:{seconds:02}"
+                    
                     found_flood_session = True
+                    print(
+                        f"{profile} will be unlocked through: - - - - - - - - - - - - - - - {waitTime_str}"
+                    )
                     break
                 else:
                     print(f"{profile} is unlocked !")
@@ -105,29 +91,12 @@ async def inviteSJ(list_name, doing):
             profile_index = (profile_index + 1) % profile_count
             continue
 
-        session_data = load_data(f"Sessions/sessJson/{profile}.json")
-
-        api_id = session_data["app_id"]
-        api_hash = session_data["app_hash"]
-        phone_number = session_data["phone"]
-        password = "206473"
-        device_model = session_data["sdk"]
-        device_version = session_data["app_version"]
-        system_lang = session_data["system_lang_pack"]
-
-        session_file = f"Sessions/sessJson/{profile}.session"
         start_index, uninvited_local_users = load_checkpoint(
-            f"jsonDB/archiveChekpoint/checkpointIS{json_name}.json"
+            f"jsonDB/profiles_data/{application_profile}/archiveChekpoint/CP_{list_name}_for_{application_profile}.json"
         )
 
-        client = TelegramClient(
-            session_file,
-            api_id,
-            api_hash,
-            proxy=proxy,
-            device_model=device_model,
-            app_version=device_version,
-        )
+        client = create_client(profile)
+       
         try:
             await client.connect()
             await client(UpdateStatusRequest(offline=False))
@@ -174,15 +143,37 @@ async def inviteSJ(list_name, doing):
                     profile_count,
                 )
             else:
-                print("ERROR not send, not invite, not invite_send!")
+                print("ERROR 3th argument may be only - send / invite / invite_send")
 
         except asyncio.IncompleteReadError as e:
             print("Error reading data: 0 bytes read out of expected 8 bytes.")
             print("Reason:", str(e))
-
+        except Exception as e:
+            excluded_sessions.append(profile)
+            profile_index = (profile_index + 1) % profile_count
+            remaining_usernames = []
+            new_invited_users = []
+            flood = True
+            counter = 0
         finally:
-            await client(UpdateStatusRequest(offline=True))
-            client.disconnect()
+            try:
+                await client(UpdateStatusRequest(offline=True))
+                client.disconnect()
+            except:
+                print('May be session is dead')
+
+
+        if isinstance(flood, bool) == False:
+            flood_list.append(
+                (
+                    profile,
+                    (datetime.datetime.now() - datetime.timedelta(hours=flood_rest) +
+                    datetime.timedelta(seconds=flood)).strftime("%Y-%m-%d %H:%M:%S")
+                )
+            )
+            with open("jsonDB/flood_list.json", "w") as file:
+                json.dump(flood_list, file)
+            continue
 
         if flood is True:
             flood_list.append(
@@ -200,23 +191,22 @@ async def inviteSJ(list_name, doing):
             invited_users.extend(new_invited_users)
 
         save_checkpoint(
-            f"jsonDB/archiveChekpoint/checkpointIS{json_name}.json",
+            f"jsonDB/profiles_data/{application_profile}/archiveChekpoint/CP_{list_name}_for_{application_profile}.json",
             (start_index + counter) % len(usernames),
             remaining_usernames,
         )
 
         if len(uninvited_users) > 0:
-            with open("jsonDB/sparsedChannelsUsers/uninvited_users.json", "w") as file:
+            with open(f"jsonDB/profiles_data/{application_profile}/uninvited_users_{application_profile}.json", "w") as file:
                 json.dump(uninvited_users, file)
 
         # Сохранить приглашенных пользователей в отдельный JSON-файл
         if len(invited_users) > 0:
-            save_data("jsonDB/invited_users.json", invited_users)
+            save_data(f"jsonDB/profiles_data/{application_profile}/invited_users_{application_profile}.json", invited_users)
 
-        profile_index = (
-            profile_index + 1
-        ) % profile_count  # Перейти к следующему профилю
-
-        if (profile_index + 1) % profile_count == 0:
-            profiles_iteration += 1  # Увеличиваем значение profiles_iteration при начале нового круга сесси
+        if (profile_index + 1) == profile_count:
+            profiles_iteration += 1
+            profile_index = 0
             print("All profiles have been processed. Starting from the first profile.")
+        else:
+            profile_index += 1

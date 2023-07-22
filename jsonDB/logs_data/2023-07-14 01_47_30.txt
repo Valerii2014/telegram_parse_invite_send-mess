@@ -1,0 +1,47 @@
+
+Profile Names:
+0. BASE
+1. other
+
+Your choise (get me variant number): 
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Adding new session....
+
+Do you want channge name in session profiles ? (Y/N):79284796737
+Failed to join the group in session: 79284796737
+Error: 'charmap' codec can't encode characters in position 13-17: character maps to <undefined>
+
+
+
+All profiles added to group
+TOTAL NEW SESSIONS: 1
+
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 

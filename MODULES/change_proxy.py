@@ -14,7 +14,8 @@ def change_proxy():
         print()
 
     answer = input("Do you want change proxy ? (Y/N):")
-    if answer != "Y" or "y":
+
+    if answer != "Y" and answer != "y":
         return
 
     # Изменение данных
@@ -25,7 +26,7 @@ def change_proxy():
             new_value = input(f"Enter new value for key '{key}': ")
             config.set(section_name, key, new_value)
     # Сохранение изменений в файл .ini
-    with open("file.ini", "w") as config_file:
+    with open("Configs/ukrProxy.ini", "w") as config_file:
         config.write(config_file)
 
     print("\nConfig proxy succesfuly changed!\n")

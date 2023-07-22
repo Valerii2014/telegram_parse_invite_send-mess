@@ -1,0 +1,173 @@
+
+Profile Names:
+0. BASE
+1. darksoft
+
+Your choise (get me variant number): 
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+18. Q-2SOZLQnDQxY2I6
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79224139237          [1/38]
+User 52/294 : session 79224139237 will be able to invite after: 3536 seconds
+
+Profile:  79224139237          [1/38]
+79224139237 will be unlocked through: - - - - - - - - - - - - - - - 00:58:55
+
+Profile:  79246046112          [2/38]
+User 52/294  with name - imhermoso invited to the group
+
+Profile:  79246116690          [3/38]
+User 53/294 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79246116690 has been banned for flood, and excluded _XXXX
+
+Profile:  79246116690          [3/38]
+This profile excluded for these iterations
+
+Profile:  79254982384          [4/38]
+User 53/294  with name - Mirmaha invited to the group
+
+Profile:  79258300100          [5/38]
+User 54/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 55/294  with name - Erzhibald invited to the group
+
+Profile:  79264485825          [6/38]
+User 56/294 : One of the users you tried to add is already in too many channels/supergroups (caused by InviteToChannelRequest)
+User 57/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 58/294 : No user has "pinkbarbiegirl1986xiaomiredmi5pr" as username
+User 59/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 60/294  with name - andy_reyly invited to the group
+
+Profile:  79265439765          [7/38]
+79265439765 will be unlocked through: - - - - - - - - - - - - - - - 22:58:42
+
+Profile:  79265608322          [8/38]
+User 61/294 : Nobody is using this username, or the username is unacceptable. If the latter, it must match r"[a-zA-Z][\w\d]{3,30}[a-zA-Z\d]" (caused by ResolveUsernameRequest)
+User 62/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 63/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 64/294  with name - Igor_crypto24 invited to the group
+
+Profile:  79284796737          [9/38]
+User 65/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 66/294  with name - blakeso invited to the group
+
+Profile:  79363089810          [10/38]
+User 67/294  with name - den0000001 invited to the group
+
+Profile:  79363169395          [11/38]
+User 68/294  with name - parenissevera invited to the group
+
+Profile:  79388110132          [12/38]
+User 69/294  with name - daproka invited to the group
+
+Profile:  79388110135          [13/38]
+User 70/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 71/294 : One of the users you tried to add is already in too many channels/supergroups (caused by InviteToChannelRequest)
+User 72/294 : No user has "opimahvn" as username
+User 73/294  with name - axatovvv invited to the group
+
+Profile:  79388110142          [14/38]
+User 74/294  with name - pekr24 invited to the group
+
+Profile:  79388110280          [15/38]
+User 75/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 76/294  with name - MarkonniGavanny invited to the group
+
+Profile:  79388110386          [16/38]
+User 77/294  with name - multiman_8841 invited to the group
+
+Profile:  79388110392          [17/38]
+User 78/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 79/294  with name - alexibatler invited to the group
+
+Profile:  79388110662          [18/38]
+User 80/294 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79388110662 has been banned for flood, and excluded _XXXX
+
+Profile:  79388110662          [18/38]
+This profile excluded for these iterations
+
+Profile:  79388110715          [19/38]
+User 80/294 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79388110715 has been banned for flood, and excluded _XXXX
+
+Profile:  79388110715          [19/38]
+This profile excluded for these iterations
+
+Profile:  79388110720          [20/38]
+User 80/294  with name - Hassselbaink invited to the group
+
+Profile:  79388110722          [21/38]
+User 81/294  with name - vladimir118790 invited to the group
+
+Profile:  79388110723          [22/38]
+User 82/294  with name - Zoom8877 invited to the group
+
+Profile:  79388110727          [23/38]
+User 83/294  with name - managefarid invited to the group
+
+Profile:  79397612475          [24/38]
+User 84/294 : You can't write in this chat (caused by InviteToChannelRequest)
+
+Profile:  79397612475          [24/38]
+This profile excluded for these iterations
+
+Profile:  79397618783          [25/38]
+User 84/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 85/294 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79397618783 has been banned for flood, and excluded _XXXX
+
+Profile:  79397618783          [25/38]
+This profile excluded for these iterations
+
+Profile:  79397619514          [26/38]
+User 84/294 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 85/294  with name - alekseyural174 invited to the group
+
+Profile:  79397619518          [27/38]
+User 86/294  with name - karawan_istanbul invited to the group
+
+Profile:  79397619539          [28/38]
+May be session is dead
+
+Profile:  79397619582          [29/38]

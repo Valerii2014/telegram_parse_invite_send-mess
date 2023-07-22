@@ -1,0 +1,146 @@
+
+Profile Names:
+0. BASE
+1. darksoft
+
+Your choise (get me variant number): 
+ 
+PROFILE: darksoft
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+18. Q-2SOZLQnDQxY2I6
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79388110135          [1/37]
+79388110135 will be unlocked through: - - - - - - - - - - - - - - - 23:32:58
+
+Profile:  79388110142          [2/37]
+User 200/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 201/492  with name - mikailprodam invited to the group
+
+Profile:  79388110280          [3/37]
+User 202/492  with name - adskidroc invited to the group
+
+Profile:  79388110386          [4/37]
+User 203/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 204/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 205/492  with name - vitalyajegov invited to the group
+
+Profile:  79388110392          [5/37]
+User 206/492  with name - wukasu invited to the group
+
+Profile:  79388110662          [6/37]
+79388110662 will be unlocked through: - - - - - - - - - - - - - - - 12:34:14
+
+Profile:  79388110715          [7/37]
+79388110715 will be unlocked through: - - - - - - - - - - - - - - - 12:34:20
+
+Profile:  79388110720          [8/37]
+User 207/492  with name - reincarnatedsb invited to the group
+
+Profile:  79388110722          [9/37]
+79388110722 will be unlocked through: - - - - - - - - - - - - - - - 23:33:27
+
+Profile:  79388110723          [10/37]
+User 208/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 209/492  with name - sqouzyy invited to the group
+
+Profile:  79388110727          [11/37]
+User 210/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 211/492 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 212/492 : Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by InviteToChannelRequest)
+User 213/492  with name - rossatana invited to the group
+
+Profile:  79397612475          [12/37]
+79397612475 will be unlocked through: - - - - - - - - - - - - - - - 12:34:28
+
+Profile:  79397618783          [13/37]
+79397618783 will be unlocked through: - - - - - - - - - - - - - - - 12:34:33
+
+Profile:  79397619514          [14/37]
+May be session is dead
+
+Profile:  79397619518          [15/37]
+User 214/492  with name - znayks invited to the group
+
+Profile:  79397619539          [16/37]
+79397619539 will be unlocked through: - - - - - - - - - - - - - - - 12:34:41
+
+Profile:  79510722706          [17/37]
+User 215/492  with name - krafeexx invited to the group
+
+Profile:  79582301256          [18/37]
+User 216/492  with name - khiza_adm invited to the group
+
+Profile:  79789533526          [19/37]
+User 217/492  with name - rafaelscam invited to the group
+
+Profile:  79789830959          [20/37]
+79789830959 will be unlocked through: - - - - - - - - - - - - - - - 09:22:31
+
+Profile:  79965939400          [21/37]
+User 218/492  with name - markovdanablesse invited to the group
+
+Profile:  79965939417          [22/37]
+User 219/492  with name - Discordpaso invited to the group
+
+Profile:  79965939452          [23/37]
+User 220/492  with name - reconnect01 invited to the group
+
+Profile:  79995006931          [24/37]
+User 221/492  with name - PovidloVarenye invited to the group
+
+Profile:  79995437047          [25/37]
+User 222/492  with name - qwers001 invited to the group
+
+Profile:  79246046112          [26/37]
+79246046112 will be unlocked through: - - - - - - - - - - - - - - - 23:30:20
+
+Profile:  79224139237          [27/37]
+User 223/492 : session 79224139237 will be able to invite after: 3163 seconds
+
+Profile:  79224139237          [27/37]
+79224139237 will be unlocked through: - - - - - - - - - - - - - - - 00:52:42
+
+Profile:  79246116690          [28/37]
+79246116690 will be unlocked through: - - - - - - - - - - - - - - - 12:31:33
+
+Profile:  79254982384          [29/37]
+May be session is dead

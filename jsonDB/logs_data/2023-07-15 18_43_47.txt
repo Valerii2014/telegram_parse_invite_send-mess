@@ -1,0 +1,82 @@
+
+Profile Names:
+0. BASE
+1. other
+
+Your choise (get me variant number): 
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79397619518          [1/42]
+User 39/75  with name - HAHOMETP invited to the group
+
+Profile:  79397619539          [2/42]
+The authorization has been invalidated, because of the user terminating all sessions (caused by UpdateStatusRequest)
+
+Profile:  79397619539          [2/42]
+This profile excluded for these iterations
+
+Profile:  79397619582          [3/42]
+The authorization has been invalidated, because of the user terminating all sessions (caused by UpdateStatusRequest)
+
+Profile:  79397619582          [3/42]
+This profile excluded for these iterations
+
+Profile:  79510722706          [4/42]
+User 40/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 41/75  with name - Den_Ser88 invited to the group
+
+Profile:  79965939400          [5/42]
+User 42/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 43/75  with name - Croc_invest invited to the group
+
+Profile:  79965939417          [6/42]
+User 44/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 45/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 46/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 47/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 48/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 49/75 : Chat admin privileges are required to do that in the specified chat (for example, to send a message in a channel which is not yours), or invalid permissions used for the channel or group (caused by InviteToChannelRequest)
+
+Profile:  79965939452          [7/42]
+User 51/75 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)

@@ -1,0 +1,102 @@
+
+Profile Names:
+0. BASE
+1. other
+
+Your choise (get me variant number): 
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+17. Cartel_Del_Crypto_Chat
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79363152520          [1/42]
+The authorization has been invalidated, because of the user terminating all sessions (caused by UpdateStatusRequest)
+
+Profile:  79363156739          [2/42]
+The authorization has been invalidated, because of the user terminating all sessions (caused by UpdateStatusRequest)
+
+Profile:  79363169395          [3/42]
+79363169395 will be unlocked through: - - - - - - - - - - - - - - - 00:55:29
+
+Profile:  79388110132          [4/42]
+User 569/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 570/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 571/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 572/1249  with name - Miron_AND invited to the group
+
+Profile:  79388110135          [5/42]
+User 573/1249  with name - Woldsert invited to the group
+
+Profile:  79388110142          [6/42]
+User 574/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 575/1249  with name - Faze4138 invited to the group
+
+Profile:  79388110280          [7/42]
+User 576/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 577/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 578/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 579/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 580/1249  with name - romeosok invited to the group
+
+Profile:  79388110386          [8/42]
+User 581/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 582/1249  with name - Maker_Pepper invited to the group
+
+Profile:  79388110392          [9/42]
+User 583/1249  with name - Minionnnn1111 invited to the group
+
+Profile:  79388110662          [10/42]
+User 584/1249 : Too many requests (caused by InviteToChannelRequest)
+XXXX_ Session 79388110662 has been banned for flood, and excluded _XXXX
+
+Profile:  79388110662          [10/42]
+This profile excluded for these iterations
+
+Profile:  79388110715          [11/42]
+User 584/1249  with name - dqdafq invited to the group
+
+Profile:  79388110720          [12/42]
+User 585/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 586/1249  with name - marigerart invited to the group
+
+Profile:  79388110722          [13/42]
+User 587/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 588/1249 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)

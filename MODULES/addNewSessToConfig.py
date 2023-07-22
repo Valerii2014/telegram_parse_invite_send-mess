@@ -3,7 +3,7 @@ import os
 from .JCACI import join_channel
 
 
-async def addNewSess():
+async def addNewSess(application_profile):
     # Path to the folder containing the files
     folder_path = "Sessions/sessJson"
 
@@ -48,7 +48,7 @@ async def addNewSess():
     if change_name == "Y" or change_name == "y":
         change_name_boolean = True
 
-    await join_channel(new_sessions, change_name_boolean)
+    await join_channel(new_sessions, change_name_boolean, application_profile)
 
     # Save the config to the sessionConfig.ini file
     print(f"TOTAL NEW SESSIONS: {counter}")

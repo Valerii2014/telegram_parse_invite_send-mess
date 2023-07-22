@@ -1,0 +1,205 @@
+
+Profile Names:
+0. BASE
+1. other
+
+Your choise (get me variant number): 
+ 
+PROFILE: BASE
+
+Make your choise:
+
+1. Parsing
+2. Invite
+3. Send messages
+4. Invite + send messages
+5. Add new sess
+6. Change proxy
+7. Change config
+0. Exit
+
+Your choise (get me variant number): 
+Group Names:
+0. uninvited_users_reverse
+1. satoshi
+2. topVariant
+3. bybitComunity
+4. cryptoantony
+5. CRYPTUS_CHAT
+6. chatcryptoprofit
+7. chatcrowd
+8. speculanty
+9. mineinvest38
+10. RusCryptExChat
+11. QDP_2023
+12. psinvestingchat
+13. invest_future_chat
+14. cpafuck
+15. alcryptonchat
+16. En1dqU6C9mkt5l3rUQqsTA
+
+Your choise (get me variant number): 
+1 - my session
+2 - russ session
+
+Your choise (get me variant number): 
+Inviting Starting....
+
+
+Profile:  79789533526          [1/44]
+User 318/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 319/2238  with name - StarikovDima invited to the group
+
+Profile:  79789830959          [2/44]
+User 320/2238  with name - Lance153 invited to the group
+
+Profile:  79325498742          [3/44]
+User 321/2238  with name - I_Alexei_ivanov invited to the group
+
+Profile:  79325498752          [4/44]
+User 322/2238  with name - fm_in_moscow invited to the group
+
+Profile:  79363152520          [5/44]
+User 323/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 324/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 325/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 326/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 327/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 328/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+
+Profile:  79363156739          [6/44]
+User 330/2238  with name - Chernoburov invited to the group
+
+Profile:  79363169395          [7/44]
+User 331/2238  with name - intanium invited to the group
+
+Profile:  79388110132          [8/44]
+User 332/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 333/2238  with name - SergeyRHD invited to the group
+
+Profile:  79388110135          [9/44]
+User 334/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 335/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 336/2238  with name - HananoKairo invited to the group
+
+Profile:  79388110142          [10/44]
+User 337/2238  with name - Nataly009 invited to the group
+
+Profile:  79388110280          [11/44]
+User 338/2238 : One of the users you tried to add is already in too many channels/supergroups (caused by InviteToChannelRequest)
+User 339/2238  with name - Konstantin_Krupskiy invited to the group
+
+Profile:  79388110386          [12/44]
+User 340/2238  with name - Belsis invited to the group
+
+Profile:  79388110392          [13/44]
+User 341/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 342/2238  with name - abixartem invited to the group
+
+Profile:  79388110662          [14/44]
+User 343/2238  with name - You_Finansist invited to the group
+
+Profile:  79388110715          [15/44]
+User 344/2238  with name - ENDROZDOV invited to the group
+
+Profile:  79388110720          [16/44]
+User 345/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 346/2238  with name - frilevich invited to the group
+
+Profile:  79388110722          [17/44]
+User 347/2238  with name - asphyxia322 invited to the group
+
+Profile:  79388110723          [18/44]
+User 348/2238  with name - gevencelauand invited to the group
+
+Profile:  79388110727          [19/44]
+User 349/2238  with name - NataliaHaar invited to the group
+
+Profile:  79397612475          [20/44]
+User 350/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 351/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 352/2238  with name - VetohinK invited to the group
+
+Profile:  79397618783          [21/44]
+79397618783 will be unlocked through: - - - - - - - - - - - - - - - 14:19:28
+
+Profile:  79397619514          [22/44]
+User 353/2238  with name - SolaVg invited to the group
+
+Profile:  79397619518          [23/44]
+User 354/2238  with name - awirina7 invited to the group
+
+Profile:  79397619539          [24/44]
+User 355/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 356/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 357/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 358/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 359/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 360/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+
+Profile:  79397619582          [25/44]
+User 362/2238  with name - Vladimir_IA invited to the group
+
+Profile:  79510722706          [26/44]
+User 363/2238  with name - STANWOOD invited to the group
+
+Profile:  79965939400          [27/44]
+User 364/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 365/2238  with name - DmitryKalugin27 invited to the group
+
+Profile:  79965939417          [28/44]
+User 366/2238  with name - oscar373 invited to the group
+
+Profile:  79965939452          [29/44]
+User 367/2238  with name - Fanat_de_Vigor invited to the group
+
+Profile:  79995006931          [30/44]
+79995006931 will be unlocked through: - - - - - - - - - - - - - - - 23:46:52
+
+Profile:  79995437047          [31/44]
+User 368/2238  with name - farick19 invited to the group
+
+Profile:  79224139237          [32/44]
+79224139237 will be unlocked through: - - - - - - - - - - - - - - - 23:46:46
+
+Profile:  79246046112          [33/44]
+User 369/2238  with name - kristinka_10 invited to the group
+
+Profile:  79246116690          [34/44]
+User 370/2238  with name - ya_taliya invited to the group
+
+Profile:  79254982384          [35/44]
+79254982384 will be unlocked through: - - - - - - - - - - - - - - - 17:50:36
+
+Profile:  79258300100          [36/44]
+79258300100 will be unlocked through: - - - - - - - - - - - - - - - 17:50:43
+
+Profile:  79264485825          [37/44]
+79264485825 will be unlocked through: - - - - - - - - - - - - - - - 17:50:50
+
+Profile:  79265439765          [38/44]
+79265439765 will be unlocked through: - - - - - - - - - - - - - - - 23:46:34
+
+Profile:  79265608322          [39/44]
+79265608322 will be unlocked through: - - - - - - - - - - - - - - - 17:50:58
+
+Profile:  79325600503          [40/44]
+User 371/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 372/2238  with name - Alenaskvorts invited to the group
+
+Profile:  79363085786          [41/44]
+User 373/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 374/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 375/2238 : The user's privacy settings do not allow you to do this (caused by InviteToChannelRequest)
+User 376/2238  with name - Igorkravvch invited to the group
+
+Profile:  79363089810          [42/44]
+User 377/2238  with name - CepXuoo invited to the group
+
+Profile:  79582301256          [43/44]
+79582301256 will be unlocked through: - - - - - - - - - - - - - - - 00:56:43
+
+Profile:  79284796737          [44/44]
+79284796737 will be unlocked through: - - - - - - - - - - - - - - - 04:07:08
+
+Profile:  79789533526          [1/44]
