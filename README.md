@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-=======
+
 # telegram_parse_invite_send-mess
 
->>>>>>> ab345250353928dfa04fc4ab22d7f2b7f0d3a0dc
 This is an application for collecting user usernames, inviting them, and sending messages.
 
 1. It can collect members of Telegram groups and store them in JSON files.
